@@ -5,7 +5,16 @@ An interactive Excel dashboard designed to analyze sales performance, customer b
 The dashboard transforms raw transactional data into clear insights using Pivot Tables, Slicers, and Excel charts.
 
 ---
+## 🖥️ Dashboard Preview
 
+### **Analysis Sheet**
+
+![Analysis Sheet](Analysis.png)
+
+### **Dashboard Sheet**
+
+![Dashboard Sheet](Dashboard.png)
+------
 ## 📊 Dashboard Overview
 
 The dashboard provides a full breakdown of:
@@ -83,19 +92,6 @@ Customer activity by weekday:
 
 ---
 
-## 🖥️ Dashboard Preview
-
-### **Analysis Sheet**
-
-![Analysis Sheet](Analysis.png)
-
-### **Dashboard Sheet**
-
-![Dashboard Sheet](Dashboard.png)
-
-*(ضع الصور في الريبو بنفس الاسم لعرضها بشكل صحيح)*
-
----
 
 ## 📎 Project Purpose
 
